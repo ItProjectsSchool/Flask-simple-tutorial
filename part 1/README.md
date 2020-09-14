@@ -24,7 +24,7 @@ if __name__ == '__main__':
     app.run()
 ```
 <br>
-<b>Step 3. Run app.</b|><br>
+<b>Step 3. Run app.</b><br>
 Type python app.py in the terminal. And after that, you should see your simple app on  http://localhost:5000/.<br>
 That all for part 1:)<br>
 
