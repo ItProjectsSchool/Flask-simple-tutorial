@@ -10,7 +10,7 @@ pip install Flask (if it is necessary you can add a version to the Flask -  pip 
 <b>Step 2. app.py</b><br>
 Create app.py file and put it to your project folder. Then add the code below to the app.py file.<br>
 ```python
-#in this part is created Flask object for future work<br>
+#in this part Flask  object is created  for future work<br>
 from flask import Flask
 app = Flask(__name__)
 
